@@ -2,3 +2,7 @@ red
 blue
 pink 
 black
+red
+blue
+pink
+black
